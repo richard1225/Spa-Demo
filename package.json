@@ -1,0 +1,19 @@
+{
+  "name": "spaapp",
+  "version": "1.0.0",
+  "description": "SPA实战",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richard1225/Spa-Demo.git"
+  },
+  "author": "richard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richard1225/Spa-Demo/issues"
+  },
+  "homepage": "https://github.com/richard1225/Spa-Demo#readme"
+}
